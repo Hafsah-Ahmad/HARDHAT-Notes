@@ -43,3 +43,7 @@ Test command:
 
 Deploying command:
    npx hardhat ignition deploy ./ignition/modules/Lock.ts
+
+To run Hardhat Networ:
+   npx hardhat node
+
