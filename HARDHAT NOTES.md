@@ -37,3 +37,9 @@ To get help for a specific task run: npx hardhat help [task]
 
 Compiling command:
    npx hardhat compile
+
+Test command:
+   npx hardhat test
+
+Deploying command:
+   npx hardhat ignition deploy ./ignition/modules/Lock.ts
