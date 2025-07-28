@@ -47,3 +47,4 @@ Deploying command:
 To run Hardhat Networ:
    npx hardhat node
 
+hardhat
